@@ -1,0 +1,2 @@
+# redmine_gantt_excel
+redmineからAPIでチケット情報を取得し、ガントチャート風Excelシートを作成するツール
